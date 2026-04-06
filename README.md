@@ -10,3 +10,9 @@ Asetukset
 Pisteenlasku
 
 Teknologia: Java (Swing/AWT)
+
+# Päävalikko
+![](main_screen.png)
+
+# Peli
+![](game.png)
